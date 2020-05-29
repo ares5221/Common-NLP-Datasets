@@ -18,7 +18,7 @@
 **使用该项目，即可对所有的聊天语料进行一次性的处理和统一下载，不需要到处自己去搜集下载和分别处理各种不同的格式。**
 
 ## 注意
-以下所有语料都已经统一下载好，存在 https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A  提取码：f2ex 中。给出的语料原链接是为了说明该语料的原始出处是在哪里
+部分数据已经上传
 
 
 # 环境
@@ -50,10 +50,11 @@ xiaohuangji（小黄鸡语料） | https://github.com/candlewill/Dialog_Corpus
 
 
 # 使用方法
-下载语料 https://pan.baidu.com/s/1szmNZQrwh9y994uO8DFL_A  提取码：f2ex
+下载数据后
 
-将解压后的raw_chat_corpus文件夹放到当前目录下
+将解压后的raw_chat_corpus文件夹中相应数据放到当前目录raw_chat_corpus下
 目录结构为
+
 ```
 raw_chat_corpus
 -- language
@@ -67,12 +68,9 @@ raw_chat_corpus
 ```
 执行命令即可
 ```bash
-python main.py
-```
-或者
-```bash
 python3 main.py
 ```
+
 # 生成结果
 每个来源的语料分别生成一个独立的*.tsv文件，都放在新生成的clean_chat_corpus文件夹下。
 
@@ -80,10 +78,7 @@ python3 main.py
 ```
 query \t answer
 ```
-# 结果的使用
-这个就根据每个人不同的情况自主使用即可
-
-个人对于聊天机器人方向实践也不是很多，以下一篇之前写的知乎专栏供参考
+# 扩展阅读
 **《从产品完整性的角度浅谈chatbot》**
 
 https://zhuanlan.zhihu.com/p/34927757
