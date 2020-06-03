@@ -4,12 +4,18 @@
 
 
 
-#### 闲聊数据
+#### chatbot开放领域数据
 
 [闲聊数据项目](https://github.com/ares5221/Question-Answer-Datasets/tree/master/chinese_chatbot_corpus)
 
 数据下载地址：链接：https://pan.baidu.com/s/18a9zJHfIXMvsceV4iCM_Mg 
 提取码：fce3
+
+#### chatbot资料
+
+https://github.com/ares5221/Question-Answer-Datasets/tree/master/chatbot-doc
+
+
 
 
 
