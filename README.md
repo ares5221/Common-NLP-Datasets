@@ -105,7 +105,8 @@ todo...
 | 8    | [XQA](https://github.com/thunlp/XQA)                         | 2019/7/29 | 清华大学     |      | <font size=2> 该篇文章主要是针对开放式问答构建了一个跨语言的开放式问答数据集，该数据集（训练集、测试集）主要包括九种语言，9万多个问答。 </font> | 多语言                                                      | QA   | [论文](https://www.aclweb.org/anthology/P19-1227)            |      |
 | 9    | [AmazonQA](https://github.com/amazonqa/amazonqa)             | 2019/9/29 | 亚马逊       |      | <font size=2> 卡耐基梅隆大学针对亚马逊平台上问题重复回答的痛点，提出了基于评论的QA模型任务，即利用先前对某一产品的问答，QA系统自动总结出一个答案给客户 </font> | 英文                                                        | QA   | [论文](https://arxiv.org/pdf/1908.04364v1.pdf)               |      |
 | 10   | [保险知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/baoxianzhidao) |           |              |      |                                                              | 8000 多条保险行业问答数据，包括用户提问、网友回答、最佳回答 |      |                                                              |      |
-| 11   |                                                              |           |              |      |                                                              |                                                             |      |                                                              |      |
+| 11   | [安徽电信知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/anhuidianxinzhidao) |           |              |      |                                                              | 15.6 万条电信问答数据，包括用户提问、网友回答、最佳回答     |      |                                                              |      |
+|      |                                                              |           |              |      |                                                              |                                                             |      |                                                              |      |
 
 # 
 
