@@ -108,7 +108,14 @@ todo...
 | 11   | [安徽电信知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/anhuidianxinzhidao) |           |              |      |                                                              | 15.6 万条电信问答数据，包括用户提问、网友回答、最佳回答     |      |                                                              |      |
 |      |                                                              |           |              |      |                                                              |                                                             |      |                                                              |      |
 
-# 
+## 推荐系统
+
+| 数据集      | 数据概览                                                     | 下载地址                                       |
+| ----------- | ------------------------------------------------------------ | ---------------------------------------------- |
+| ez_douban   | 5 万多部电影（3 万多有电影名称，2 万多没有电影名称），2.8 万 用户，280 万条评分数据 | [点击查看](./datasets/ez_douban/intro.ipynb)   |
+| dmsc_v2     | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据         | [点击查看](./datasets/dmsc_v2/intro.ipynb)     |
+| yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据                | [点击查看](./datasets/yf_dianping/intro.ipynb) |
+| yf_amazon   | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb)   |
 
 
 
