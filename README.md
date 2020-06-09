@@ -106,7 +106,8 @@ todo...
 | 9    | [AmazonQA](https://github.com/amazonqa/amazonqa)             | 2019/9/29 | 亚马逊       |      | <font size=2> 卡耐基梅隆大学针对亚马逊平台上问题重复回答的痛点，提出了基于评论的QA模型任务，即利用先前对某一产品的问答，QA系统自动总结出一个答案给客户 </font> | 英文                                                        | QA   | [论文](https://arxiv.org/pdf/1908.04364v1.pdf)               |      |
 | 10   | [保险知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/baoxianzhidao) |           |              |      |                                                              | 8000 多条保险行业问答数据，包括用户提问、网友回答、最佳回答 |      |                                                              |      |
 | 11   | [安徽电信知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/anhuidianxinzhidao) |           |              |      |                                                              | 15.6 万条电信问答数据，包括用户提问、网友回答、最佳回答     |      |                                                              |      |
-|      |                                                              |           |              |      |                                                              |                                                             |      |                                                              |      |
+| 12   | [金融知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/financezhidao) |           |              |      |                                                              | 77 万条金融行业问答数据，包括用户提问、网友回答、最佳回答   |      |                                                              |      |
+| 13   | [法律知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/lawzhidao) |           |              |      |                                                              | 3.6 万条法律问答数据，包括用户提问、网友回答、最佳回答      |      |                                                              |      |
 
 ## 推荐系统
 
