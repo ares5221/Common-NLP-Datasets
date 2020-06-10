@@ -108,6 +108,9 @@ todo...
 | 11   | [安徽电信知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/anhuidianxinzhidao) |           |              |      |                                                              | 15.6 万条电信问答数据，包括用户提问、网友回答、最佳回答     |      |                                                              |      |
 | 12   | [金融知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/financezhidao) |           |              |      |                                                              | 77 万条金融行业问答数据，包括用户提问、网友回答、最佳回答   |      |                                                              |      |
 | 13   | [法律知道](https://github.com/ares5221/Common-NLP-Datasets/tree/master/lawzhidao) |           |              |      |                                                              | 3.6 万条法律问答数据，包括用户提问、网友回答、最佳回答      |      |                                                              |      |
+| 14   | 联通知道                                                     |           |              |      |                                                              | 20.3 万条联通问答数据，包括用户提问、网友回答、最佳回答     |      |                                                              |      |
+| 15   | 农行知道                                                     |           |              |      |                                                              | 4 万条农业银行问答数据，包括用户提问、网友回答、最佳回答    |      |                                                              |      |
+| 16   | 保险知道                                                     |           |              |      |                                                              | 58.8 万条保险行业问答数据，包括用户提问、网友回答、最佳回答 |      |                                                              |      |
 
 ## 推荐系统
 
