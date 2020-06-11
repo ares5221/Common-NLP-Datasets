@@ -114,12 +114,12 @@ todo...
 
 ## 推荐系统
 
-| 数据集      | 数据概览                                                     | 下载地址                                       |
-| ----------- | ------------------------------------------------------------ | ---------------------------------------------- |
-| ez_douban   | 5 万多部电影（3 万多有电影名称，2 万多没有电影名称），2.8 万 用户，280 万条评分数据 | [点击查看](./datasets/ez_douban/intro.ipynb)   |
-| dmsc_v2     | 28 部电影，超 70 万 用户，超 200 万条 评分/评论 数据         | [点击查看](./datasets/dmsc_v2/intro.ipynb)     |
-| yf_dianping | 24 万家餐馆，54 万用户，440 万条评论/评分数据                | [点击查看](./datasets/yf_dianping/intro.ipynb) |
-| yf_amazon   | 52 万件商品，1100 多个类目，142 万用户，720 万条评论/评分数据 | [点击查看](./datasets/yf_amazon/intro.ipynb)   |
+| ID   | 标题                                                         | 更新日期 | 数据集提供者 | 许可 | 数据说明                                                     | 关键字 | 类别 | 论文地址 | 备注 |
+| ---- | ------------------------------------------------------------ | -------- | ------------ | ---- | ------------------------------------------------------------ | ------ | ---- | -------- | ---- |
+| 1    | [ez_douban](https://github.com/ares5221/Common-NLP-Datasets/tree/master/ez_douban) |          |              |      | 5 万多部电影（3 万多有电影名称，2 万多没有电影名称），2.8 万 用户，280 万条评分数据 |        |      |          |      |
+|      |                                                              |          |              |      |                                                              |        |      |          |      |
+|      |                                                              |          |              |      |                                                              |        |      |          |      |
+|      |                                                              |          |              |      |                                                              |        |      |          |      |
 
 
 
@@ -145,3 +145,17 @@ todo...
 |      |                                                              |          |                                     |      |                                      |                |          |                                                              |      |
 |      |                                                              |          |                                     |      |                                      |                |          |                                                              |      |
 |      |                                                              |          |                                     |      |                                      |                |          |                                                              |      |
+
+# NER
+
+| ID   | 标题                                                         | 更新日期  | 数据集提供者                           | 许可 | 说明                                                         | 关键字       | 类别         | 论文地址                                              | 备注 |
+| ---- | ------------------------------------------------------------ | --------- | -------------------------------------- | ---- | ------------------------------------------------------------ | ------------ | ------------ | ----------------------------------------------------- | ---- |
+| 1    | [CCKS2017中文电子病例命名实体识别](https://biendata.com/competition/CCKS2017_2/data/) | 2017年5月 | 北京极目云健康科技有限公司             |      | <font size=2>数据来源于其云医院平台的真实电子病历数据，共计800条（单个病人单次就诊记录），经脱敏处理</font> </font> | 电子病历     | 命名实体识别 | \                                                     | 中文 |
+| 2    | [CCKS2018中文电子病例命名实体识别](https://biendata.com/competition/CCKS2018_1/data/) | 2018年    | 医渡云（北京）技术有限公司             |      | <font size=2> CCKS2018的电子病历命名实体识别的评测任务提供了600份标注好的电子病历文本，共需识别含解剖部位、独立症状、症状描述、手术和药物五类实体 </font> | 电子病历     | 命名实体识别 | \                                                     | 中文 |
+| 3    | [微软亚研院MSRA命名实体识别识别数据集](https://github.com/lemonhu/NER-BERT-pytorch/tree/master/data/msra) | \         | MSRA                                   |      | <font size=2> 数据来源于MSRA，标注形式为BIO，共有46365条语料               </font> | Msra         | 命名实体识别 | \                                                     | 中文 |
+| 4    | [1998人民日报语料集实体识别标注集](https://github.com/ThunderingII/nlp_ner/tree/master/data) | 1998年1月 | 人民日报                               |      | <font size=2> 数据来源为98年人民日报，标注形式为BIO，共有23061条语料       </font> | 98人民日报   | 命名实体识别 | \                                                     | 中文 |
+| 5    | [Boson](https://github.com/TomatoTang/BILSTM-CRF)            | \         | 玻森数据                               |      | <font size=2> 数据来源为Boson，标注形式为BMEO,共有2000条语料               </font> | Boson        | 命名实体识别 | \                                                     | 中文 |
+| 6    | [CLUE Fine-Grain NER](https://storage.googleapis.com/cluebenchmark/tasks/cluener_public.zip) | 2020年    | CLUE                                   |      | <font size=2> CLUENER2020数据集，是在清华大学开源的文本分类数据集THUCTC基础上，选出部分数据进行细粒度命名实体标注，原数据来源于Sina News RSS。数据包含10个标签类别，训练集共有10748条语料，验证集共有1343条语料 </font> | 细粒度；CULE | 命名实体识别 | \                                                     | 中文 |
+| 7    | [CoNLL-2003](https://www.clips.uantwerpen.be/conll2003/ner/) | 2003      | CNTS - Language Technology Group       |      | <font size=2> 数据来源于CoNLL-2003的任务，该数据标注了包括PER, LOC, ORG和MISC的四个类别 </font> | CoNLL-2003   | 命名实体识别 | [论文](https://www.aclweb.org/anthology/W03-0419.pdf) | 英文 |
+| 8    | [微博实体识别](https://github.com/hltcoe/golden-horse)       | 2015年    | https://github.com/hltcoe/golden-horse |      | <font size=2>                                                              </font> | EMNLP-2015   | 命名实体识别 |                                                       |      |
+| 9    | [SIGHAN Bakeoff 2005](http://sighan.cs.uchicago.edu/bakeoff2005/) | 2005年    | MSR/PKU                                |      | <font size=2>                                                              </font> | bakeoff-2005 | 命名实体识别 |                                                       |      |
